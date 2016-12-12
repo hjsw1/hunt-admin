@@ -1,0 +1,10 @@
+.idea
+*.iml
+*/target
+
+**/WEB-INF/classes/
+
+/logs/
+/**/*/rebel.xml
+/hunt-system/target/
+/bin/
